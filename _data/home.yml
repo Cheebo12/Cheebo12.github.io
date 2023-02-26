@@ -11,11 +11,11 @@ navbar_entries:
 project_entries:
   - title: Project 1
     url: overview-post
-    desc: This is an example project, configured in _data/home.yml
+    desc: Car driving taxi game. Working on this 3D simulator game for a gaming studio for the past 4 months with more than 10,000+ downloads
 
   - title: Project 2
     url: overview-post
-    desc: Projects are shown in card layout
+    desc: A 3D hyper casual game which I made during my internship in mindstorm studios. This was the first time I worked in a team of designers and modelers
 
   - title: Project 3
     url: overview-post
