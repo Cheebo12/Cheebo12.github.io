@@ -21,5 +21,8 @@ Here are some features that were used in the game
 | LoadSceneAsync         | Made different levels load asynchronously to improve workflow.|
 
 
-##GAMEPLAY
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=RsPWGuCCzLQ" frameborder="0" allowfullscreen></iframe>
+## Gameplay
+
+Check out the gameplay video on YouTube:
+
+[![Gameplay video](https://img.youtube.com/vi/RsPWGuCCzLQ/0.jpg)](https://www.youtube.com/watch?v=RsPWGuCCzLQ)
