@@ -44,8 +44,9 @@ soopr:
 highlighter: rouge
 
 sass:
-  style: :compressed
+  style: compressed
 
 plugins:
   - jekyll-feed
   - jekyll-soopr-seo-tag
+  
