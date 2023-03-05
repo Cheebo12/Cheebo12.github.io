@@ -5,66 +5,64 @@ navbar_entries:
   - title: blog
     url: blog
 
-  - title: website
-    url: https://www.abhinav.co
+  - title: Linkedin
+    url: https://www.linkedin.com/in/sohaib-awan/
 
 project_entries:
   - title: Project 1
-    url: overview-post
-    desc: Car driving taxi game. Working on this 3D simulator game for a gaming studio for the past 4 months with more than 10,000+ downloads
+    url: City Car Driving Taxi Games
+    desc: Working on this 3D simulator game for a gaming studio for the past 4 months with more than 10,000+ downloads.
 
   - title: Project 2
-    url: overview-post
-    desc: A 3D hyper casual game which I made during my internship in mindstorm studios. This was the first time I worked in a team of designers and modelers
+    url: RunToFly3D
+    desc: A 3D hyper casual game which I made during my internship in mindstorm studios. This was the first time I worked in a team of designers and modelers.
 
   - title: Project 3
-    url: overview-post
-    desc: You can control visibility from _config.yml file
+    url: Red-Alert
+    desc: A 3D desktop platformer game. where you pass obstacles to clear each level.    
 
   - title: Project 4
-    url: overview-post
-    desc: This project uses highlight markup, configured in _data/home.yml
-    highlight: WIP
+    url: Flappy bird
+    desc: A flappy bird replica game which I made for my university course project.
 
   - title: Project 5
-    url: overview-post
-    desc: Moonwalk also has horizontal list (used in header and footer)
-    highlight: WIP
+    url: Homing Misile
+    desc: This was a university assignment which I then turned into a gaming project.
 
   - title: Project 6
-    url: overview-post
-    desc: It also has a scalable vertical list (in case you need it)
+    url: SIR COVID Simulation
+    desc: This was my first time doing something on unity where I Implemented realistic infection spread by randomizing human interaction and behavior in the visual simulation.
 
-old_project_entries:
-  - title: Soopr
-    url: https://www.soopr.co
-    desc: Delight your readers - add beautiful share and like buttons easily to your websites 
-    highlight: NEW
+# old_project_entries:
+#   - title: Soopr
+#     url: https://www.soopr.co
+#     desc: Delight your readers - add beautiful share and like buttons easily to your websites 
+#     highlight: NEW
 
-  - title: Cookie
-    url: https://github.com/abhinavs/cookie
-    desc: An open source landing website with supporting pages and integrated blog
+#   - title: Cookie
+#     url: https://github.com/abhinavs/cookie
+#     desc: An open source landing website with supporting pages and integrated blog
 
-  - title: Moonwalk
-    url: https://github.com/abhinavs/moonwalk
-    desc: A fast and minimalist Jekyll blog theme with clean dark mode
+#   - title: Moonwalk
+#     url: https://github.com/abhinavs/moonwalk
+#     desc: A fast and minimalist Jekyll blog theme with clean dark mode
 
-  - title: Humangous
-    url: https://www.humangous.co
-    desc: The better people know you, the better they collaborate
+#   - title: Humangous
+#     url: https://www.humangous.co
+#     desc: The better people know you, the better they collaborate
 
 footer_entries:
-  - title: abhinav's homepage
-    url: https://www.abhinav.co
+  # - title: abhinav's homepage
+  #   url: https://www.abhinav.co
 
   - title: twitter
-    url: https://twitter.com/abhinav
+    url: https://twitter.com/CheeboSo
 
   - title: github
-    url: https://github.com/abhinavs
+    url: https://github.com/Cheebo12
 
-  - title: feed
-    url: feed.xml
+  # - title: feed
+  #   url: feed.xml
 
 misc_entries:
   - title: this is an example vertical list
@@ -84,10 +82,10 @@ misc_entries:
     url: false
     entries:
       - title: on Github
-        url: https://github.com/abhinavs/moonwalk
+        url: https://github.com/Cheebo12
 
-      - title: originally built for abhinav's homepage
-        url: https://www.abhinav.co
+      # - title: originally built for abhinav's homepage
+      #   url: https://www.abhinav.co
 
       - title: this list is scalable and can be nested
         url: false

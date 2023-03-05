@@ -1,15 +1,15 @@
-title: Moonwalk
-author: Abhinav Saxena
-url: https://www.abhinavsaxena.com/moonwalk # root address of the site
+title: My Portfolio
+author: Sohaib Awan
+url: https://cheebo12.github.io # root address of the site
 description: > # description of the site (multiple lines allowed)
-  Moonwalk is a fast and elegant Jekyll theme with a clean dark mode. It comes with horizontal list (for navbar and footer), card list (for portfolio), and a generic vertical list. It is very easy to modify in case you want to build over it - please see _layouts/home.html to do that.
+  Hello my name is Sohaib Awan and I work as a game developer based in Karachi, Pakistan. My passion for gaming has driven me to pursue this career, and I particularly enjoy playing games such as FIFA, the Call of Duty series, Gone Home, Stray, and Shank.Besides gaming, I also have a keen interest in football and am a big fan of Manchester United. In my leisure time, I enjoy watching horror movies and anime. I'm also involved in investing in NFTs as a side hustle.As a game developer, I believe that my love for gaming and knowledge of the industry puts me in a unique position to create exciting and immersive experiences for players. My experience working on various game projects has given me the skills to tackle challenging tasks and work collaboratively with a team.
 
 permalink: /:slug
 
 favicon: "./logo.png" # relative path to site's favicon
 
 twitter:
-    username: abhinav # update or delete this
+    username: Cheebo # update or delete this
     card: summary_large_image
 
 #theme: moonwalk # if you are using GitHub Pages, change it to remote_theme: abhinavs/moonwalk
@@ -35,8 +35,8 @@ theme_config:
   home:
     title_projects: Portfolio
     title_misc_list: Details
-    title_blog: Blog
-    title_old_projects: Old Projects
+    # title_blog: Blog
+    # title_old_projects: Old Projects
 
 soopr:
   publish_token: "" # sign up at https://www.soopr.co to get your publish token and personalize share and reaction options
