@@ -10,7 +10,7 @@ navbar_entries:
 
 project_entries:
   - title: Project 1
-    url: overview-post
+    url: overviewpost
     desc: Working on this 3D simulator game for a gaming studio for the past 4 months with more than 10,000+ downloads.
 
   - title: Project 2
