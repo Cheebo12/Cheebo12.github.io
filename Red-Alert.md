@@ -21,11 +21,11 @@ Here are some features that were used in the game
 | LoadSceneAsync         | Made different levels load asynchronously to improve workflow.                          |
 
 Another table check
-
+<div style="width:290px">
 | <div style="width:290px">property</div> | description                           |
 | --------------------------------------- | ------------------------------------- |
 | `border-bottom-right-radius`            | Defines the shape of the bottom-right |
-
+</div>
 ## Gameplay
 
 Check out the gameplay video on YouTube:
