@@ -33,7 +33,9 @@ type                A                                  B
  abc  ![img](assets/some-image-n1.png) ![img](assets/some-image-n2.png)
 
 defg  ![img](assets/some-image-n3.png) ![img](assets/some-image-n4.png)
+
 -----------------------------------------------------------------------
+
 
 ## Gameplay
 
