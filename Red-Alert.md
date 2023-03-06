@@ -21,8 +21,8 @@ Here are some features that were used in the game
 | LoadSceneAsync         | <div style="width: 90%">Made different levels load asynchronously to improve workflow.</div> |
 
 <table>
-  <col style="width:50%">
-  <col style="width:50%">
+  <col style="width:20%">
+  <col style="width:80%">
   <tr>
     <th>Features</th>
     <th>Description</th>
