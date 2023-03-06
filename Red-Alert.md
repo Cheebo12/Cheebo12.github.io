@@ -21,22 +21,11 @@ Here are some features that were used in the game
 | <col style="width:50%">LoadSceneAsync</col>   | Made different levels load asynchronously to improve workflow.           |
 
 
-<table>
-  <col style="width:20%">
-  <col style="width:80%">
-  <tr>
-    <th>Features</th>
-    <th>Description</th>
-  </tr>
-  <tr>
-    <td>Oclussion Culling</td>
-    <td>Implemented Occlusion culling to render what is only in the players view.</td>
-  </tr>
-  <tr>
-    <td>LoadSceneAsync</td>
-    <td>Made different levels load asynchronously to improve workflow.</td>
-  </tr>
-</table>
+Name  | Value &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+-------|-------------------
+`Value-One` | Long explanation
+`Value-Two` | Long explanation
+`etc` | Long explanation
 
 
 
