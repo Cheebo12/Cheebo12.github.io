@@ -25,8 +25,6 @@ Here are some features that were used in the game
 
 Check out the gameplay video on YouTube:
 
-[![Gameplay video](https://img.youtube.com/vi/RsPWGuCCzLQ/0.jpg)](https://www.youtube.com/watch?v=RsPWGuCCzLQ)
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RsPWGuCCzLQ" frameborder="0" allowfullscreen></iframe>
 
 
