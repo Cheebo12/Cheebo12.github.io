@@ -27,27 +27,13 @@ Name &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp
 `Value-Two` | Long explanation
 `etc` | Long explanation
 
-<style>
-table th:first-of-type {
-    width: 10%;
-}
-table th:nth-of-type(2) {
-    width: 10%;
-}
-table th:nth-of-type(3) {
-    width: 50%;
-}
-table th:nth-of-type(4) {
-    width: 30%;
-}
-</style>
+-----------------------------------------------------------------------
+type                A                                  B
+----- -------------------------------- --------------------------------
+ abc  ![img](assets/some-image-n1.png) ![img](assets/some-image-n2.png)
 
-
-+---------+---------+---------+----------+
-| Header1 | header2 | header3 | header4  |
-+---------+---------+---------+----------+
-| Bar     | bar     | bar     | bar      |
-+---------+---------+---------+----------+
+defg  ![img](assets/some-image-n3.png) ![img](assets/some-image-n4.png)
+-----------------------------------------------------------------------
 
 ## Gameplay
 
