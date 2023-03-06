@@ -27,14 +27,9 @@ Name &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp
 `Value-Two` | Long explanation
 `etc` | Long explanation
 
------------------------------------------------------------------------
-type                A                                  B
------ -------------------------------- --------------------------------
- abc  ![img](assets/some-image-n1.png) ![img](assets/some-image-n2.png)
-
-defg  ![img](assets/some-image-n3.png) ![img](assets/some-image-n4.png)
-
------------------------------------------------------------------------
+|`Name`|`          Value          `|
+|----|---------|
+|value1|value2|
 
 
 ## Gameplay
