@@ -16,9 +16,9 @@ The models were created by myself using blender. The sounds used in the game are
 Here are some features that were used in the game
 
 | Features        | Description                                              |
-|<br/>-----------------<br/>|<br/>---------------------------------------------------------------------------------<br/>|
-| <col style="width:50%">Occlusion Culling</col> | Implemented Occlusion culling to render what is only in the players view. |
-| <col style="width:50%">LoadSceneAsync</col>   | Made different levels load asynchronously to improve workflow.           |
+|<br/>            <br/>|<br/>                                                                                <br/>|
+| Occlusion Culling | Implemented Occlusion culling to render what is only in the players view. |
+| LoadSceneAsync  | Made different levels load asynchronously to improve workflow.           |
 
 
 Name &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Valu 
