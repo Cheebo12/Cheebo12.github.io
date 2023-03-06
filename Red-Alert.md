@@ -20,7 +20,22 @@ Here are some features that were used in the game
 | Oclussion Culling      | <div style="width: 75%">Implemented Occlusion culling to render what is only in the players view.</div> |
 | LoadSceneAsync         | <div style="width: 90%">Made different levels load asynchronously to improve workflow.</div> |
 
-pokkokokokokokok
+<table>
+  <col style="width:50%">
+  <col style="width:50%">
+  <tr>
+    <th>Features</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td>Oclussion Culling</td>
+    <td>Implemented Occlusion culling to render what is only in the players view.</td>
+  </tr>
+  <tr>
+    <td>LoadSceneAsync</td>
+    <td>Made different levels load asynchronously to improve workflow.</td>
+  </tr>
+</table>
 
 
 
