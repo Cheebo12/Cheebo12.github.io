@@ -8,7 +8,7 @@ RunToFly3D is a hyper-casual game for Android that combines the themes of runner
 
 ## Game Assets
 
-The models used in the game were made by a modeler on my team. The sky box used was licensed and given to us by the organizers just for this game jam. The sound effects that were used in the game were taken from bensound.
+The models used in the game were made by a modeler on my team. The sky box used was licensed and given to us by the organizers just for this game jam. The sound effects that were used in the game were royalty free and taken from mixkit.
 
 
 ## Features
