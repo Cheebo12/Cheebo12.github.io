@@ -2,8 +2,8 @@ navbar_entries:
   # - title: about
   #   url: about
 
-  # - title: blog
-  #   url: blog
+  - title: Youtube
+    url: https://www.youtube.com/@sohaibawan7249
 
   - title: Linkedin
     url: https://www.linkedin.com/in/sohaib-awan/
@@ -18,20 +18,22 @@ project_entries:
     desc: A 3D hyper casual game which I made during my internship in mindstorm studios. This was the first time I worked in a team of designers and modelers.
 
   - title: Project 3
+    url: GoblinRun3D
+    desc: A game made for a discord community. 
+
+  - title: Project 4
     url: Red-Alert
     desc: A 3D desktop platformer game. where you pass obstacles to clear each level.    
 
-  - title: Project 4
+  - title: Project 5
     url: Flappy bird
     desc: A flappy bird replica game which I made for my university course project.
 
-  - title: Project 5
+  - title: Project 6
     url: Homing Missile
     desc: This was a university assignment which I then turned into a gaming project.
 
-  - title: Project 6
-    url: SIR COVID Simulation
-    desc: This was my first time doing something on unity where I Implemented realistic infection spread by randomizing human interaction and behavior in the visual simulation.
+
 
 # old_project_entries:
 #   - title: Soopr

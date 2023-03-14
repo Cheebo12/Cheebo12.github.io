@@ -22,6 +22,7 @@ Here are some features that were used in the game
 | DoTween | The UI animations were made using a library called dotween. |
 | Scriptable objects | Since this game has 30 levels I created a data container and stored pick/drop position and rotation of each level and dropped them inside the container to reduce scene size which ultimately reduced the game size by 11mbs. |
 | PlayerPrefs | prefs were used to store coins earned the items bought in inventory and the color paint purchased |
+| Ads Integration | Integrated Admob, unityAds with mediation |
 
 
 
