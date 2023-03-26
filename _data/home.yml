@@ -33,9 +33,6 @@ project_entries:
     url: Homing Missile
     desc: This was a university assignment which I then turned into a gaming project.
 
-NonProgramming_entries:
-  - title: Nonprogramming Work
-    url: nonprogramming.html
 
 # old_project_entries:
 #   - title: Soopr
