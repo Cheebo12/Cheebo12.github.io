@@ -1,9 +1,12 @@
 nonprogramming_entries:
   - title: Perfume
     image: /images/perfume.png
-  - title: Sprial Arch
+  - title: Spiral Arch
     image: /images/spiralArch.png
   - title: Donut
     image: /images/donut.png
   - title: Animation
     video: /images/perfumeAnimation.mp4
+
+
+    
