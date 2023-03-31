@@ -8,6 +8,9 @@ navbar_entries:
   - title: Linkedin
     url: https://www.linkedin.com/in/sohaib-awan/
 
+  - title: Behance
+    url: https://www.behance.net/sohaibawan1
+    
 project_entries:
   - title: Project 1
     url: Taxi Simulator
