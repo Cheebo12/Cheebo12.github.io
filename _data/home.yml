@@ -32,16 +32,6 @@ project_entries:
   - title: Project 6
     url: Homing Missile
     desc: This was a university assignment which I then turned into a gaming project.
-    
-nonprogramming_entries:
-  - title: Perfume
-    image: /images/perfume.png
-  - title: Spiral Arch
-    image: /images/spiralArch.png
-  - title: Donut
-    image: /images/donut.png
-  - title: Animation
-    video: /images/perfumeAnimation.mp4
 
 # old_project_entries:
 #   - title: Soopr
