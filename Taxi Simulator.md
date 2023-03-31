@@ -3,7 +3,7 @@ layout: post
 title: Taxi Simulator
 ---
 
-City Car Driving: Taxi Games is a realistic simulation game that allows players to experience the thrill of being a taxi driver in a bustling city. With a range of different taxi models to choose from, each with their own unique characteristics and handling, players must navigate through busy city streets, picking up and dropping off passengers at various locations while adhering to traffic rules and avoiding collisions. As they progress through the game, players can earn money and use it to upgrade their taxi's appearance. With its immersive gameplay and attention to detail, City Car Driving: Taxi Games offers an exciting and authentic taxi-driving experience for players of all ages.
+City Car Driving: Taxi Games is a realistic simulation game that allows players to experience the thrill of being a taxi driver in a city. With a range of different taxi models to choose from, each with their own unique characteristics and handling, players must navigate through city streets, picking up and dropping off passengers at various locations while avoiding collisions. As they progress through the game, players can earn money and use it to upgrade their taxi's appearance. With its immersive gameplay and attention to detail, this game offers an exciting and authentic taxi-driving experience for players of all ages.
 
 
 ## Game Assets
