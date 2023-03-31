@@ -34,13 +34,13 @@ project_entries:
     desc: This was a university assignment which I then turned into a gaming project.
     
 nonprogramming_entries:
-  - title: Perfume
+  - title: 
     image: /images/perfume.png
-  - title: Spiral Arch
+  - title: 
     image: /images/spiralArch.PNG
-  - title: Donut
+  - title: 
     image: /images/donut.PNG
-  - title: Animation
+  - title: 
     video: /images/perfumeAnimation.mp4
 
 # old_project_entries:
