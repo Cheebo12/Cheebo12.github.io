@@ -1,0 +1,26 @@
+<!-- title_nonprogramming_list: "Non-Programming Entries"
+nonprogramming_entries:
+  - title: Perfume
+    image: /images/perfume.png
+  - title: Sprial Arch
+    image: /images/spiralArch.png
+  - title: Donut
+    image: /images/donut.png
+  - title: Animation
+    video: /images/perfumeAnimation.mp4 -->
+
+<h2>Non-Programming Entries</h2>
+<div style="overflow-x: scroll;">
+  <div style="white-space: nowrap;">
+    {% for entry in site.data.home.nonprogramming_entries %}
+      {% if entry.image %}
+        <img src="{{ entry.image }}" alt="{{ entry.title }}" style="display: inline-block; width: 300px; height: 200px; margin: 10px;">
+      {% elsif entry.video %}
+        <video width="320" height="240" controls>
+          <source src="{{ entry.video }}" type="video/mp4">
+          Your browser does not support the video tag.
+        </video>
+      {% endif %}
+    {% endfor %}
+  </div>
+</div>

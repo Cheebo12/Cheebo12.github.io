@@ -40,7 +40,7 @@ layout: default
   <h2>{{ site.theme_config.home.title_nonprogramming_list }}</h2>
   {% include vertical_list.html collection=site.data.home.NonProgramming_entries %}
 {% endif %}
-
+{% include horizontal_scrollbar.html %}
 {% if site.theme_config.show_footer == true %}
   <footer>
     <div class="dashed"></div>
